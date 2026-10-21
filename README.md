@@ -24,3 +24,19 @@ Example:
 Conclusion
 Following GitHub best practices helps improve collaboration, code quality, and security.
 
+System Health Monitoring Script
+This script collects:
+
+CPU usage
+Memory usage
+Disk usage
+System uptime
+Basic system information
+Output is written to:
+
+system_health.log
+
+Run the script:
+
+chmod +x scripts/system_health.sh
+./scripts/system_health.sh
